@@ -1,0 +1,25 @@
+{
+  "name": "miniprogram-demo",
+  "version": "2.3.1",
+  "description": "wx-miniProject demo",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhulinqingtian/wx-miniProject.git"
+  },
+  "author": "wechat-miniprogram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhulinqingtian/wx-miniProject/issues"
+  },
+  "homepage": "https://github.com/zhulinqingtian/wx-miniProject#readme",
+  "devDependencies": {
+    "eslint": "^5.5.0",
+    "eslint-config-airbnb-base": "13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.0"
+  }
+}
