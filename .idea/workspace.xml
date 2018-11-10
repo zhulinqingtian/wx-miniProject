@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f7d026d-a517-485e-a756-8cfa8a0286f8" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/wx-miniProject.iml" />
+      <change beforePath="$PROJECT_DIR$/.eslintignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/green_tri.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/icon64_appwx_logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/icon_API.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/icon_API_HL.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/icon_component.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/icon_component_HL.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/icon_foot.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/location.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/pause.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/play.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/plus.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/record.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/share.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/stop.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/trash.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/wechat.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/wechatHL.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/components/set-tab-bar/set-tab-bar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/components/set-tab-bar/set-tab-bar.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/components/set-tab-bar/set-tab-bar.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/components/set-tab-bar/set-tab-bar.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/index.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/index.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/index.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/action-sheet/action-sheet.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/action-sheet/action-sheet.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/action-sheet/action-sheet.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/action-sheet/action-sheet.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/add-contact/add-contact.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/add-contact/add-contact.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/add-contact/add-contact.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/add-contact/add-contact.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/animation/animation.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/animation/animation.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/animation/animation.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/animation/animation.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/background-audio/background-audio.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/background-audio/background-audio.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/background-audio/background-audio.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/background-audio/background-audio.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/bluetooth/bluetooth.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/bluetooth/bluetooth.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/bluetooth/bluetooth.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/bluetooth/bluetooth.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/canvas/canvas.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/canvas/canvas.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/canvas/canvas.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/canvas/canvas.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/canvas/example.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/capture-screen/capture-screen.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/capture-screen/capture-screen.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/capture-screen/capture-screen.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/capture-screen/capture-screen.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/choose-address/choose-address.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/choose-address/choose-address.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/choose-address/choose-address.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/choose-address/choose-address.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/choose-invoice-title/choose-invoice-title.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/choose-invoice-title/choose-invoice-title.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/choose-invoice-title/choose-invoice-title.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/choose-invoice-title/choose-invoice-title.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/choose-location/choose-location.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/choose-location/choose-location.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/choose-location/choose-location.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/choose-location/choose-location.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/clipboard-data/clipboard-data.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/clipboard-data/clipboard-data.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/clipboard-data/clipboard-data.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/clipboard-data/clipboard-data.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/custom-message/custom-message.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/custom-message/custom-message.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/custom-message/custom-message.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/custom-message/custom-message.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/custom-service/custom-service.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/custom-service/custom-service.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/custom-service/custom-service.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/custom-service/custom-service.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/download-file/download-file.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/download-file/download-file.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/download-file/download-file.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/download-file/download-file.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/file/file.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/file/file.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/file/file.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/file/file.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/get-location/get-location.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/get-location/get-location.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/get-location/get-location.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/get-location/get-location.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/get-network-type/get-network-type.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/get-network-type/get-network-type.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/get-network-type/get-network-type.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/get-network-type/get-network-type.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/get-system-info/get-system-info.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/get-system-info/get-system-info.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/get-system-info/get-system-info.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/get-system-info/get-system-info.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/get-user-info/get-user-info.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/get-user-info/get-user-info.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/get-user-info/get-user-info.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/get-user-info/get-user-info.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/get-wxml-node-info/get-wxml-node-info.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/get-wxml-node-info/get-wxml-node-info.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/get-wxml-node-info/get-wxml-node-info.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/get-wxml-node-info/get-wxml-node-info.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/ibeacon/ibeacon.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/ibeacon/ibeacon.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/ibeacon/ibeacon.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/ibeacon/ibeacon.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/image/image.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/image/image.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/image/image.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/image/image.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/intersection-observer/intersection-observer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/intersection-observer/intersection-observer.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/intersection-observer/intersection-observer.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/intersection-observer/intersection-observer.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/load-font-face/load-font-face.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/load-font-face/load-font-face.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/load-font-face/load-font-face.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/load-font-face/load-font-face.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/login/login.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/login/login.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/login/login.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/login/login.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/make-phone-call/make-phone-call.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/make-phone-call/make-phone-call.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/make-phone-call/make-phone-call.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/make-phone-call/make-phone-call.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/modal/modal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/modal/modal.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/modal/modal.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/modal/modal.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/navigation-bar-loading/navigation-bar-loading.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/navigation-bar-loading/navigation-bar-loading.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/navigation-bar-loading/navigation-bar-loading.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/navigation-bar-loading/navigation-bar-loading.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/navigator/navigator.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/navigator/navigator.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/navigator/navigator.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/navigator/navigator.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/on-accelerometer-change/on-accelerometer-change.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/on-accelerometer-change/on-accelerometer-change.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/on-accelerometer-change/on-accelerometer-change.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/on-accelerometer-change/on-accelerometer-change.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/on-compass-change/compass.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/on-compass-change/on-compass-change.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/on-compass-change/on-compass-change.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/on-compass-change/on-compass-change.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/on-compass-change/on-compass-change.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/on-network-status-change/on-network-status-change.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/on-network-status-change/on-network-status-change.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/on-network-status-change/on-network-status-change.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/on-network-status-change/on-network-status-change.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/open-location/open-location.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/open-location/open-location.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/open-location/open-location.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/open-location/open-location.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/page-scroll/page-scroll.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/page-scroll/page-scroll.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/page-scroll/page-scroll.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/page-scroll/page-scroll.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/pull-down-refresh/pull-down-refresh.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/pull-down-refresh/pull-down-refresh.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/pull-down-refresh/pull-down-refresh.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/pull-down-refresh/pull-down-refresh.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/request-payment/request-payment.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/request-payment/request-payment.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/request-payment/request-payment.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/request-payment/request-payment.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/request/request.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/request/request.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/request/request.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/request/request.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/scan-code/scan-code.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/scan-code/scan-code.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/scan-code/scan-code.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/scan-code/scan-code.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/screen-brightness/screen-brightness.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/screen-brightness/screen-brightness.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/screen-brightness/screen-brightness.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/screen-brightness/screen-brightness.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/sendMessage/sendMessage.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/sendMessage/sendMessage.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/sendMessage/sendMessage.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/sendMessage/sendMessage.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/set-navigation-bar-title/set-navigation-bar-title.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/set-navigation-bar-title/set-navigation-bar-title.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/set-navigation-bar-title/set-navigation-bar-title.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/set-navigation-bar-title/set-navigation-bar-title.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/setting/setting.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/setting/setting.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/setting/setting.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/setting/setting.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/share-button/share-button.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/share-button/share-button.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/share-button/share-button.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/share-button/share-button.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/share/share.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/share/share.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/share/share.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/share/share.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/soter-authentication/soter-authentication.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/soter-authentication/soter-authentication.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/soter-authentication/soter-authentication.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/soter-authentication/soter-authentication.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/storage/storage.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/storage/storage.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/storage/storage.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/storage/storage.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/subscribe-message/subscribe-message.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/subscribe-message/subscribe-message.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/subscribe-message/subscribe-message.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/subscribe-message/subscribe-message.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/template-message/template-message.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/template-message/template-message.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/template-message/template-message.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/template-message/template-message.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/toast/toast.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/toast/toast.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/toast/toast.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/toast/toast.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/upload-file/upload-file.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/upload-file/upload-file.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/upload-file/upload-file.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/upload-file/upload-file.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/vibrate/vibrate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/vibrate/vibrate.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/vibrate/vibrate.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/vibrate/vibrate.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/video/video.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/video/video.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/video/video.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/video/video.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/voice/voice.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/voice/voice.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/voice/voice.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/voice/voice.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/web-socket/web-socket.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/web-socket/web-socket.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/web-socket/web-socket.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/web-socket/web-socket.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/wifi/wifi.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/wifi/wifi.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/wifi/wifi.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/wifi/wifi.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/worker/worker.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/worker/worker.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/worker/worker.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/pages/worker/worker.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/resources/kind/api.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/resources/kind/device.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/resources/kind/feedback.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/resources/kind/location.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/resources/kind/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/resources/kind/media.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/resources/kind/network.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/resources/kind/page.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/resources/kind/storage.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/API/resources/kind/worker.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/common/foot.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/common/head.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/common/index.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/common/lib/weui.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/index.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/index.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/index.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/ad/ad.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/ad/ad.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/ad/ad.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/ad/ad.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/audio/audio.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/audio/audio.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/audio/audio.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/audio/audio.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/button/button.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/button/button.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/button/button.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/button/button.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/camera-scan-code/camera-scan-code.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/camera-scan-code/camera-scan-code.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/camera-scan-code/camera-scan-code.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/camera-scan-code/camera-scan-code.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/camera/camera.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/camera/camera.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/camera/camera.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/camera/camera.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/canvas/canvas.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/canvas/canvas.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/canvas/canvas.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/canvas/canvas.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/checkbox/checkbox.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/checkbox/checkbox.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/checkbox/checkbox.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/checkbox/checkbox.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/cover-view/cover-view.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/cover-view/cover-view.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/cover-view/cover-view.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/cover-view/cover-view.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/form/form.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/form/form.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/form/form.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/form/form.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/icon/icon.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/icon/icon.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/icon/icon.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/icon/icon.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/image/image.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/image/image.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/image/image.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/image/image.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/input/input.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/input/input.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/input/input.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/input/input.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/label/label.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/label/label.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/label/label.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/label/label.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/map-styles/map-styles.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/map-styles/map-styles.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/map-styles/map-styles.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/map-styles/map-styles.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/map/map.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/map/map.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/map/map.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/map/map.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/movable-view/movable-view.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/movable-view/movable-view.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/movable-view/movable-view.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/movable-view/movable-view.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/navigator/navigate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/navigator/navigate.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/navigator/navigate.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/navigator/navigate.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/navigator/navigator.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/navigator/navigator.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/navigator/navigator.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/navigator/navigator.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/navigator/redirect.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/navigator/redirect.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/navigator/redirect.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/navigator/redirect.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/open-data/open-data.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/open-data/open-data.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/open-data/open-data.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/open-data/open-data.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/picker-view/picker-view.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/picker-view/picker-view.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/picker-view/picker-view.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/picker-view/picker-view.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/picker/picker.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/picker/picker.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/picker/picker.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/picker/picker.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/progress/progress.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/progress/progress.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/progress/progress.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/progress/progress.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/radio/radio.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/radio/radio.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/radio/radio.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/radio/radio.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/rich-text/rich-text.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/rich-text/rich-text.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/rich-text/rich-text.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/rich-text/rich-text.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/scroll-view/scroll-view.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/scroll-view/scroll-view.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/scroll-view/scroll-view.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/scroll-view/scroll-view.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/slider/slider.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/slider/slider.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/slider/slider.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/slider/slider.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/swiper/swiper.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/swiper/swiper.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/swiper/swiper.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/swiper/swiper.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/switch/switch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/switch/switch.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/switch/switch.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/switch/switch.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/text/text.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/text/text.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/text/text.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/text/text.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/textarea/textarea.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/textarea/textarea.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/textarea/textarea.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/textarea/textarea.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/video/video.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/video/video.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/video/video.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/video/video.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/view/view.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/view/view.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/view/view.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/view/view.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/web-view/web-view.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/web-view/web-view.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/web-view/web-view.wxml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/pages/web-view/web-view.wxss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/resources/kind/canvas.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/resources/kind/content.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/resources/kind/daytime.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/resources/kind/form.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/resources/kind/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/resources/kind/map.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/resources/kind/media.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/resources/kind/nav.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/resources/kind/night.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/resources/kind/open.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/resources/kind/view.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/resources/pic/1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/resources/pic/2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/resources/pic/custom_map_template_1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/resources/pic/custom_map_template_2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/resources/pic/custom_map_template_3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/page/component/resources/pic/custom_map_template_4.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/util/util.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/workers/fib/index.js" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="152" />
+    <option name="y" value="7" />
+    <option name="width" value="1690" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wx-miniProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wx-miniProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wx-miniProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wx-miniProject" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f7d026d-a517-485e-a756-8cfa8a0286f8" name="Default" comment="" />
+      <created>1541843653130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541843653130</updated>
+      <workItem from="1541843654609" duration="300000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="300000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="152" y="7" width="1690" height="1047" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969324" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
